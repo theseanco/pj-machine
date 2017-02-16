@@ -7,7 +7,7 @@ Made with [Constant](http://www.constantvzw.org/site/?lang=en) and love.
 
 ## Installation
 
-_You need [node.js](https://nodejs.org/) and [python 2.7](https://www.python.org/) to install.
+You need [node.js](https://nodejs.org/) and [python 2.7](https://www.python.org/) to install.
 
 #### 1. Download this repository
 
@@ -46,18 +46,19 @@ Work in Progress.
 ### Buttons
 Normally you should control the PJ Machine programm with the PJ Machine Box. 
 You can also control it with your keyboard.
-e -> select the block you want to act on
-o -> Previous content 
-p -> Next content
-a -> Move Left
-s -> Move Up
-q -> Move Right
-w -> Move Down
-u -> Zoom In
-Space -> Zoom Out
-i -> Increase the width of the block
-y -> Increase word-spacing
-r -> Descrease word-spacing
+* e -> select the block you want to act on
+* o -> Previous content 
+* p -> Next content
+* a -> Move Left
+* s -> Move Up
+* q -> Move Right
+* w -> Move Down
+* u -> Zoom In
+* Space -> Zoom Out
+* i -> Increase the width of the block
+* y -> Increase word-spacing
+* r -> Descrease word-spacing
+* t -> Export to PDF
 
 ## License 
  GPL v.3 

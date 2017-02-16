@@ -22,7 +22,7 @@ yPos: 7.0000000000000036
 
 ----
 
-wordSpace: 16
+wordSpace: 31
 
 ----
 
